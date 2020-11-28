@@ -1,0 +1,37 @@
+body{
+    background-color: gainsboro;
+}
+h1
+{
+    font-family: "Cambria";
+    font-size: 70px;
+
+}
+.in1{
+    width: 300px;
+    background-color: gainsboro;
+    border: 3px solid black;
+    font-size: 20px;
+}
+.cl{
+    font-size: 30px;
+    font-family: "Segoe Script";
+}
+.add{
+    font-size: 50px;
+
+}
+.button1
+{
+    background-color: ivory;
+    font-size: 25px;
+    border: 2px solid darkslategrey;
+  border-radius: 4px;
+}
+.button2
+{
+    background-color: ivory;
+    font-size: 25px;
+    border: 2px solid darkslategrey;
+  border-radius: 4px;
+}
